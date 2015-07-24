@@ -1,0 +1,199 @@
+
+-- Log file for all dbTracef messages --
+
+10:47:30.67   NetworkManager::Create - creating network manager
+10:47:30.67   Read 755 bytes from network datastore login_cache.bin
+10:47:30.67   Read 122408 bytes from network datastore global_cache.bin
+10:47:30.67   Read 16084 bytes from network datastore ping_cache.bin
+10:47:30.67   QuazalInitializer - static initializing Quazal library
+10:47:30.67   PingCache - populating cache with 892 pings
+10:47:30.67   Transport - Header Size = 4 bytes + 4 byte nonce + 2 byte consolidation header
+10:47:30.67   WinTransport - CreateSocket exclusive broadcast socket was available.
+10:47:30.67   WinTransport - CreateSocket listening for broadcasts on default port
+10:47:30.68   WinTransport - Host Name: Charon, aliases: , type=AF_INET, len=4
+10:47:30.68   WinTransport - Host IP Address #0: 192.168.1.101
+10:47:30.68   WinTransport - Interface #0: ip:192.168.1.101, broadcast:192.168.1.101, flags=IFF_UP IFF_BROADCAST IFF_MULTICAST
+10:47:30.68   WinTransport - Interface #1: ip:127.0.0.1, broadcast:127.0.0.1, flags=IFF_UP IFF_LOOPBACK IFF_MULTICAST
+10:47:30.68   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+10:47:30.68   WinTransport - Quazal address string = udp:/address=192.168.1.101;port=6112
+10:47:30.68   SessionManager - Peer Header Size = 16 bytes
+10:47:30.68   SessionManager - Game Data overhead = 7 bytes
+10:47:30.68   SessionManager - Proxy overhead = 7 bytes
+10:47:30.68   MessageInternal::CreateChannel: Created channel 47535450
+10:47:30.68   Session::Initialize - info, initializing session object, using threads.
+10:47:35.38   UIFrontEnd - Loading Front End
+10:47:35.38   THREAD: Hyper-Threading Technology Processors are not detected.
+10:47:35.45   SOUND -- Initializing ...
+10:47:35.48   INNIMapDCA Key not found: sp_speechducker::time
+10:47:35.72   SOUND -- Initialization completed!
+10:47:35.72   UIFrontEnd - Initializing Forms
+10:47:36.58   CampaignFilter::BindFilterSpecificWidgets()
+10:47:36.62   Activating screen: MovieScreen
+10:47:36.62   Got dlman msg [dlmanager version 1.0 peertraffic 1 uploadlimit 2147483647 seedratio 3]
+10:47:47.45   Activating screen: AppLoadingForm
+10:47:47.45   SetupProductLoadingArt - choosing bgArt = 4 (gold=0)
+10:47:47.80   GAME -- Loaded campaign 'Invasion of Normandy' (DATA:SCENARIOS\SP\COH.CAMP) with 15 missions, [coh]
+10:47:47.80   GAME -- Loaded campaign 'Liberation of Caen' (DATA:SCENARIOS\SP\CXP1.CAMP) with 9 missions, [cxp1]
+10:47:47.80   GAME -- Loaded campaign 'Operation Market Garden' (DATA:SCENARIOS\SP\CXP2.CAMP) with 8 missions, [cxp2]
+10:47:47.80   GAME -- Loaded campaign 'Falaise Pocket' (DATA:SCENARIOS\SP\DLC3.CAMP) with 3 missions, [dlc3]
+10:47:47.80   GAME -- Loaded campaign 'Causeway' (DATA:SCENARIOS\SP\DLC2.CAMP) with 3 missions, [dlc2]
+10:47:47.80   GAME -- Loaded campaign 'Tiger Ace' (DATA:SCENARIOS\SP\DLC1.CAMP) with 3 missions, [dlc1]
+10:47:47.97   GAME -- Using player profile CHARON
+10:47:48.44   Dx10Program : Unable to find shader script for 'fxshader_multiply' in the ShaderDatabase.
+10:47:48.61   Dx10Program : Unable to find shader script for 'fxshader_depthadditive' in the ShaderDatabase.
+10:47:49.85   QuazalLoginService - *** Connecting to server: reliclive.quazal.net:30260
+10:47:49.85   RendezvousManager: CreateSession - starting profile=Guest login
+10:47:50.63   RendezvousManager: Login complete and successfull
+10:47:50.65   RendezvousManager initialized
+10:47:50.75   Current server English:live version is 602.0, client is 602.0
+10:47:50.77   OnConnect: successful connection established, enabling reconnect
+10:47:50.77   OnConnect: this wasnt a reconnect, no need for autologin
+10:47:50.79   Logging in woelfel60 on controller:0
+10:47:51.61   Requesting Relic Downloader soft throttle call [LoginAsync] has time 820
+10:47:51.61   Sent message game CompanyOfHeroes softthrottle
+10:47:51.63   Got dlman msg [ack game CompanyOfHeroes softthrottle]
+10:47:52.65   Login completed: ACCOUNT_VALIDATED
+10:47:52.65   Found 1 profiles for account woelfel60
+10:47:52.65   Found profile: woelfel60
+10:47:52.65   installed_products = ( COH CXP1 DLC1 DLC2 DLC3 DLC1 DLC2 DLC3 )
+10:47:52.65   OnLogin: no previous login, auto selecting profile not required
+10:47:52.69   SetupProductLoadingArt - choosing bgArt = 3 (gold=0)
+10:47:52.70   CRC & Version Info : 0000025a:2b4ee69b:ec3c9e0d eastern_front:602:factionfix.dll 1
+10:47:52.70   Activating screen: FEMovie
+10:47:52.70   Activating screen: OnlineWidget
+10:47:52.70   Activating screen: RelicOnlineProfileSelect
+10:47:52.70   SetupProductLoadingArt - choosing bgArt = 3 (gold=0)
+10:47:52.70   Activating screen: RelicOnlineWait
+10:47:52.70   RendezvousManager - destroying chat handler
+10:47:52.70   RendezvousManager: CreateSession - starting logout profile = 100:Guest
+10:47:52.87   RendezvousManager: Logout complete
+10:47:52.87   RendezvousManager - terminating all server calls in progress
+10:47:52.87   CallManager - terminating all server calls in progress (1 in progress)
+10:47:52.87   RendezvousManager: OnCredentialsEvent - starting profile login
+10:47:53.49   RendezvousManager: Login complete and successfull
+10:47:53.49   RendezvousManager - creating chat handler
+10:47:53.49   RendezvousManager::CreateNATTraversalClient - NAT traversal available.
+10:47:53.67   QuazalSelectProfileAsync - Got UserID
+10:47:53.69   Transport - Largest sent is now 16
+10:47:53.75   Transport - Largest received is now 41
+10:47:53.79   GetUserStats requested stats for PIDs ( 406711 ) (best:0, full:1)
+10:47:53.95   SelectProfileAsync - RegisterLocalURLs public [udp:/address=97.92.204.83;port=6112;PID=406711;RVCID=16592395], private [udp:/address=192.168.1.101;port=6112;PID=406711]
+10:47:54.03   QuazalSelectProfileAsync - Got Full Stats
+10:47:54.15   GetAutomatchMaps: Got [32] maps
+10:47:54.16   PopulateArmyListBox - skipping race 2
+10:47:54.16   PopulateArmyListBox - skipping race 0
+10:47:54.16   PopulateArmyListBox - skipping race 1
+10:47:54.16   PopulateArmyListBox - skipping race 3
+10:47:54.16   AutoMatchForm::OnArmySelectionChanged - sending request info
+10:47:54.16   GetMaxFrameTimeFromProfile: players=2 expected FPS=100.000000, bars=5, max avg=0.000, sd=0.000, 0 samples =
+10:47:54.16   AutoMatchForm::OnMatchTypeSelectionChanged - sending team info
+10:47:54.17   QuazalSelectProfileAsync - Got Automatch maps
+10:47:54.73   QuazalSelectProfileAsync - GetFriends result - CacheState = 1
+10:47:54.89   Profile [00000000:000634b7] selected on controller#0
+10:47:54.89   Activating screen: FEMovie
+10:47:54.89   Activating screen: OnlineWidget
+10:47:54.89   Activating screen: FE_mm_01
+10:47:54.89   Activating screen: RelicOnlineWait
+10:47:59.39   Activating screen: MessageBoxPopup
+10:47:59.39   Created Matchinfo
+10:47:59.39   Session::Reset with reason 999 and AdvertisementInternal::ResetSession()
+10:47:59.39   starting online hosting
+10:47:59.44   OnlineHostAsync: initiating CallCreateMatch
+10:48:00.25   Requesting Relic Downloader soft throttle call [OnlineHostAsync] has time 804
+10:48:00.25   Sent message game CompanyOfHeroes softthrottle
+10:48:00.27   Got dlman msg [ack game CompanyOfHeroes softthrottle]
+10:48:00.43   OnlineHostAsync: created gid=237663532
+10:48:00.43   Transport - Largest sent is now 77
+10:48:00.49   Transport - Largest received is now 102
+10:48:00.69   OnlineHostAsync - RegisterLocalURLs public [udp:/address=97.92.204.83;port=6112;PID=406711;RVCID=16592395], private [udp:/address=192.168.1.101;port=6112;PID=406711]
+10:48:00.97   RendezvousNotifier - Received Participate ParticipationEvent.
+10:48:01.07   OnlineHostAsync: initiating UpdateSessionURL [gid=237663532, url=udp:/address=97.92.204.83;port=6112;PID=406711;RVCID=16592395]
+10:48:01.31   OnJoinAdvertisementSuccess - joined online match, server leave notification required
+10:48:01.31   starting local hosting
+10:48:01.31   Transport::OpenInternal request to WINaddr:255.255.255.255:6112;
+10:48:01.31   Allocated route ID=0 for PeerID 1 at WINaddr:192.168.1.101:6112;
+10:48:01.31   Transport::OpenInternal request to WINaddr:192.168.1.101:6112;
+10:48:01.31   Session::Host sid = E2A752C, hostURL = , local addresses = WINaddr:192.168.1.101:6112;
+10:48:01.31   ValidateCustomData: called with 567 bytes of custom data
+10:48:01.31   Host accepted Peer 1 into the match at address list=WINaddr:192.168.1.101:6112;, routes=WINaddr:192.168.1.101:6112;
+10:48:01.31   AdvertisementInternal::Process - EVENT_NEWPEER
+10:48:01.31   Session::GetState - info, session's state changed to [2:STATE_CONNECTING].
+10:48:01.33   Session::GetState - info, session's state changed to [3:STATE_CONNECTED].
+10:48:01.33   hosting - Session is connected
+10:48:01.33   Net::Session::SetVisible - session is set to INVISIBLE.
+10:48:01.33   local host PeerID 1 CONN ack=  0 (  0ms~0) unack=  0, retry=  0, highwaterOOS=0 @WINaddr:192.168.1.101:6112; (ping=0ms) 100.00%, pending=0, dead=0
+10:48:01.33   MessageCounts: inval=0/0, seek=0/0, join=0/0, integ=0/0, seek_reply=0/0, join_reply=0/0, add=0/0, remove=0/0, drop=0/0, data=0/0, voice=0/0, rchk=0/0, nudge=0/0, peerhdr=0/0, proxy=0/0, ping=0/0, frag=0/0, Errors=0/0
+10:48:01.35   hosting completed successfully
+10:48:01.35   HostAsync - completed with HostResult = 0
+10:48:01.35   UIFrontEnd::StartRelicOnlineTabs deactivating FE_mm_01
+10:48:01.35   Activating screen: OnlineGameSetup
+10:48:01.35   MessageInternal::CreateChannel: Created channel 534d5347
+10:48:01.35   GameSetupForm - UpdateMatchType: Setting match type to 14: CLASSIC_COOP_SKIRMISH
+10:48:01.35   MatchInternal::SetMatchType - new type 14 - updating server
+10:48:01.36   SetVisible called while !IsConnected
+10:48:01.36   GetMaxFrameTimeFromProfile: players=4 expected FPS=33.857441, bars=5, max avg=0.025, sd=0.004, 4 samples =  0.03 0.02 0.02 0.03
+10:48:01.40   Activating screen: RelicOnlineChat
+10:48:01.40   Activating screen: RelicOnlineNewsScreen
+10:48:01.48   Activating screen: RelicOnlineStatsScreen
+10:48:01.48   Activating screen: Achievements
+10:48:01.48   GAME -- Setting campaign state to 'coh'
+10:48:01.51   GAME -- Closing state 'coh'
+10:48:01.52   GAME -- Setting campaign state to 'cxp2'
+10:48:01.52   GAME -- Closing state 'cxp2'
+10:48:01.53   GAME -- Setting campaign state to 'cxp1'
+10:48:01.53   GAME -- Closing state 'cxp1'
+10:48:01.53   GAME -- Setting campaign state to 'dlc1'
+10:48:01.54   GAME -- Closing state 'dlc1'
+10:48:01.54   GAME -- Setting campaign state to 'dlc2'
+10:48:01.54   GAME -- Closing state 'dlc2'
+10:48:01.54   GAME -- Setting campaign state to 'dlc3'
+10:48:01.54   GAME -- Closing state 'dlc3'
+10:48:01.55   GAME -- Setting campaign state to 'dlc1'
+10:48:01.55   GAME -- Closing state 'dlc1'
+10:48:01.55   Activating screen: GameHistory
+10:48:01.55   GAME -- Setting campaign state to 'coh'
+10:48:01.56   GAME -- Closing state 'coh'
+10:48:01.56   GAME -- Setting campaign state to 'cxp2'
+10:48:01.56   GAME -- Closing state 'cxp2'
+10:48:01.56   GAME -- Setting campaign state to 'cxp1'
+10:48:01.56   GAME -- Closing state 'cxp1'
+10:48:01.56   GAME -- Setting campaign state to 'dlc1'
+10:48:01.56   GAME -- Closing state 'dlc1'
+10:48:01.56   GAME -- Setting campaign state to 'dlc2'
+10:48:01.56   GAME -- Closing state 'dlc2'
+10:48:01.56   GAME -- Setting campaign state to 'dlc3'
+10:48:01.56   GAME -- Closing state 'dlc3'
+10:48:01.56   Activating screen: OnlineGameSetup
+10:48:01.56   Activating screen: RelicOnlineTabs
+10:48:01.56   AutomatchInternal::OnHostComplete - Completed Host with success=1
+10:48:01.56   AutomatchInternal::OnHostComplete - automatcher is no longer active - ignoring
+10:48:01.56   QuickMatchInternal::OnHostComplete - Quickmatch not in host state.
+10:48:01.57   GameSetupForm - UpdateMatchType: Setting match type to 14: CLASSIC_COOP_SKIRMISH
+10:48:01.57   Net::Session::SetVisible - session is set to INVISIBLE.
+10:48:01.57   GetMaxFrameTimeFromProfile: players=4 expected FPS=33.857441, bars=5, max avg=0.025, sd=0.004, 4 samples =  0.03 0.02 0.02 0.03
+10:48:01.66   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+10:48:01.67   GAME -- Setting campaign state to 'coh'
+10:48:01.67   GAME -- Closing state 'coh'
+10:48:01.67   GAME -- Setting campaign state to 'cxp2'
+10:48:01.67   GAME -- Closing state 'cxp2'
+10:48:01.67   GAME -- Setting campaign state to 'cxp1'
+10:48:01.67   GAME -- Closing state 'cxp1'
+10:48:01.67   GAME -- Setting campaign state to 'dlc1'
+10:48:01.67   GAME -- Closing state 'dlc1'
+10:48:01.67   GAME -- Setting campaign state to 'dlc2'
+10:48:01.67   GAME -- Closing state 'dlc2'
+10:48:01.67   GAME -- Setting campaign state to 'dlc3'
+10:48:01.67   GAME -- Closing state 'dlc3'
+10:48:01.68   UpdateMatch: Call to UpdateGathering started, matchTypeID = 14.
+10:48:01.72   GameInfo::ResetInfo - SyncLevel set to 0 on reset
+10:48:02.75   QueryMatches: Got [65] maps, [242] ids, [17] advertisements, startID [1]
+10:48:02.75   QuazalGetAdvertisementsAsync: Queuing refresh to obtain unknown 225 matches
+10:48:03.69   Activating screen: RaceSelectionPopup
+10:48:05.83   Activating screen: RaceSelectionPopup
+10:48:06.37   QueryMatches: Got [61] maps, [244] ids, [17] advertisements, startID [237659170]
+10:48:06.38   QuazalGetAdvertisementsAsync: Queuing refresh to obtain unknown 210 matches
+10:48:11.32   QueryMatches: Got [63] maps, [250] ids, [17] advertisements, startID [237661062]
+10:48:11.32   QuazalGetAdvertisementsAsync: Queuing refresh to obtain unknown 199 matches
+10:48:15.28   GameSetupForm - UpdateMatchType: Setting match type to 14: CLASSIC_COOP_SKIRMISH
+10:48:15.28   Net::Session::SetVisible - session is set to INVISIBLE.
+10:48:15.28   GetMaxFrameTimeFromProfile: players=4 expected FPS=33.857441, bars=5, max avg=0.025, sd=0.004, 4 samples =  0.03 0.02 0.02 0.03

@@ -1,0 +1,36 @@
+// Spring-15 Dedup project
+// 1/31/15
+// Design.txt
+
+Files:
+	main.c
+	polynomial.h
+	polynomial.c
+	bit_array.h
+	bit_array.c
+
+Polynomial:
+	add - done
+	subrtract - done
+	multiply - done
+	mod - testing
+	gcd - testing
+	createRandom done by Nick
+	createIrreducible
+	modPow - testing
+	isReducible - done, not tested yet as getReducibility is not yet done
+	getReducibility - WIP
+	reduceExponent - testing
+	toString(polynomial, hex binary) done by Nick, poly is WIP
+	test_gen
+Data Structures (char array): - done
+	and - done
+	xor - done
+	or - done
+	shiftLeft - done
+	shiftRight - done
+	initlong - done 
+	initbits - done
+	intiones - done
+	inits -done
+	comparisons - done

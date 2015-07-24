@@ -1,0 +1,19 @@
+Please update change list as you commit to the repository.
+
+TODO:
+Finish testing functions.
+	- ESP for poly functions.
+	- Regression testing
+	
+Big Ints
+- issue with carry 
+- representing number by bytes char - each byte rep 8 bit
+	- make sure it still works with partition boundary testing with carrying to next byte.
+		- carry has to make it to next byte
+		- What to do when you are close to size of max int of big int. Overflow flag?
+
+testing.c
+createRandomLongPoly() - works
+
+toString fctns. work. - check toStringHex()
+

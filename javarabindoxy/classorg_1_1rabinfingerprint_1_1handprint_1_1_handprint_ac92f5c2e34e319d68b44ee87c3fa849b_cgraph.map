@@ -1,0 +1,9 @@
+<map id="org.rabinfingerprint.handprint.Handprint.getSimilarity" name="org.rabinfingerprint.handprint.Handprint.getSimilarity">
+<area shape="rect" id="node2" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a35d9e642aa6200adfc79e948bd12cc46" title="org.rabinfingerprint.handprint.\lHandprint.getFingerCount" alt="" coords="275,37,472,78"/>
+<area shape="rect" id="node8" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a6bf0833055bcb732e6946016dcb2fb33" title="org.rabinfingerprint.handprint.\lHandprint.getIntersectingFingerCount" alt="" coords="251,102,495,143"/>
+<area shape="rect" id="node3" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#ad991bf99df75df3029d26431b7a87ff1" title="org.rabinfingerprint.handprint.\lHandprint.getAllFingers" alt="" coords="544,70,741,111"/>
+<area shape="rect" id="node4" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_finger_factory.html#a2eea8a36b52b41fc59057ea8c6c785ad" title="org.rabinfingerprint.handprint.\lFingerFactory.getChunkFingerprints" alt="" coords="790,70,1026,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1rabinfingerprint_1_1fingerprint_1_1_rabin_fingerprint_long.html#abb617d63ca21bd7c70ae5733f495fc17" title="org.rabinfingerprint.fingerprint.\lRabinFingerprintLong.pushByte" alt="" coords="1103,5,1313,46"/>
+<area shape="rect" id="node6" href="$classorg_1_1rabinfingerprint_1_1fingerprint_1_1_rabin_fingerprint_long.html#a622cd56b89c65d77cfa3bad0c2cc43a9" title="org.rabinfingerprint.fingerprint.\lRabinFingerprintLong.getFingerprintLong" alt="" coords="1075,70,1341,111"/>
+<area shape="rect" id="node7" href="$classorg_1_1rabinfingerprint_1_1fingerprint_1_1_rabin_fingerprint_long.html#a6a6af5cfd3f9dd1d5bd63fdcb7bdcbd3" title="org.rabinfingerprint.fingerprint.\lRabinFingerprintLong.reset" alt="" coords="1108,135,1308,177"/>
+</map>

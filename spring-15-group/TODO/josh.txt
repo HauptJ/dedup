@@ -1,0 +1,6 @@
+1. Finish Testing program for benOr algorithm.
+idea: 
+Me: With the BenOR algorithm, should I create a test program that will run the algorithm x times till we find a number x that we can say will be accurate enough? 4:43 PM
+Kevin: Check for the one Crk said he had on the repository. Hmm im not quite sure how to go about but that sounds like the best way to start. 4:45 PM
+
+2. Find something else to test.

@@ -1,0 +1,10 @@
+<map id="org.rabinfingerprint.handprint.Handprint.getAllFingers" name="org.rabinfingerprint.handprint.Handprint.getAllFingers">
+<area shape="rect" id="node2" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a26b06665cd9e7a155dc1eebe2b52fe0f" title="org.rabinfingerprint.handprint.\lHandprint.buildAll" alt="" coords="559,5,756,46"/>
+<area shape="rect" id="node3" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a8d79fcbbaf106c39f05741f418109616" title="org.rabinfingerprint.handprint.\lHandprint.getHandFingers" alt="" coords="275,135,472,177"/>
+<area shape="rect" id="node7" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a35d9e642aa6200adfc79e948bd12cc46" title="org.rabinfingerprint.handprint.\lHandprint.getFingerCount" alt="" coords="275,201,472,242"/>
+<area shape="rect" id="node9" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a6bf0833055bcb732e6946016dcb2fb33" title="org.rabinfingerprint.handprint.\lHandprint.getIntersectingFingerCount" alt="" coords="251,266,495,307"/>
+<area shape="rect" id="node4" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#a6b0d9764ef213ed5e8f0b25250f47e23" title="org.rabinfingerprint.handprint.\lHandprint.toString" alt="" coords="559,70,756,111"/>
+<area shape="rect" id="node5" href="$classorg_1_1rabinfingerprint_1_1_main.html#abb4b14d059089dc5419ccc768bae8e14" title="org.rabinfingerprint.Main.handprint\lStdin" alt="" coords="545,135,770,177"/>
+<area shape="rect" id="node6" href="$classorg_1_1rabinfingerprint_1_1_main.html#a562b36effaa71462cdc9783557c36aa2" title="org.rabinfingerprint.Main.handprint\lFiles" alt="" coords="545,201,770,242"/>
+<area shape="rect" id="node8" href="$classorg_1_1rabinfingerprint_1_1handprint_1_1_handprint.html#ac92f5c2e34e319d68b44ee87c3fa849b" title="org.rabinfingerprint.handprint.\lHandprint.getSimilarity" alt="" coords="559,266,756,307"/>
+</map>
