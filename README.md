@@ -1,2 +1,2 @@
-# dedup
-Spring 2015 Deduplication Research.
+# Dedup
+Spring 2015 Deduplication Research with Dr. Igor Crk.
